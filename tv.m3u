@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 ,CNN BRASIL
-http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y4riz7eo92zpm/hls/main.m3u8
 
 #EXTINF:-1 ,CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=10000.m3u8
@@ -28,7 +28,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,RECORD NEWS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1 ,REVRY BRASIL
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
@@ -50,3 +50,21 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 
 #EXTINF:-1 ,TVE RS
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w1420044968_b5128000.m3u8
+
+#EXTINF:-1,2090 Wedotv Amor (BR)
+https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,2050 Breaking News By Leadstory (BR) Loop need fix
+https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
+
+#EXTINF:-1,2172 Homeful (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
+
+#EXTINF:-1,2341 Sato + (BR)
+https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+
+#EXTINF:-1,2437 Kpop by CJ ENM (US) Substituto
+https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+
+#EXTINF:-1,2560 Revry (BR)
+https://revry-brazil.akamaized.net/playlist.m3u8
