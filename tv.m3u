@@ -18,11 +18,17 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1 ,MASPER TV
 https://tv02.zas.media:1936/masper/masper/chunklist_w38408297.m3u8
 
+#EXTINF:-1 ,M0VIESPHERE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
 #EXTINF:-1 ,PLAY TV
 https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
+
+#EXTINF:-1 ,TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 
 #EXTINF:-1 ,TV PAMPA
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
