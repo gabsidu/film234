@@ -33,6 +33,9 @@ https://tv02.zas.media:1936/masper/masper/chunklist_w38408297.m3u8
 #EXTINF:-1 ,MOVIESPHERE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
+#EXTINF:-1 ,MUBEAT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+
 #EXTINF:-1 ,NEW BRASIL
 https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
 
@@ -78,44 +81,8 @@ https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w1420044968
 #EXTINF:-1 ,WEDOTV AMOR
 https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Korean to id
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5500
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bl9rGPa.png" group-title="Música",Mubeat
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bl9rGPa.png" group-title="Música",Mubeat | música coreana 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bl9rGPa.png" group-title="Música",Mubeat | música coreana 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=887
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang | Coreia do Sul
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=426
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang | Coreia do Sul 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=613
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang | Coreia do Sul 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=880
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang | Coreia do Sul 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=882
-#EXTINF:-1 tvg-id="60c8a24e17da110007eed4fd" tvg-logo="http://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png" group-title="Variedades em coreano",Rakuten Viki | Pluto TV Espanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R3RAPgn.png" group-title="Variedades em coreano",Whosfan News
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=435
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R3RAPgn.png" group-title="Variedades em coreano",Whosfan News | legenda em inglês 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=889
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R3RAPgn.png" group-title="Variedades em coreano",Whosfan News | legenda em inglês 3
+#EXTINF:-1 ,WHOSFAN NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=891
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-logo="https://i.imgur.com/kOqUFyh.png" group-title="Variedades em coreano",YG TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-logo="https://i.imgur.com/kOqUFyh.png" group-title="Variedades em coreano",YG TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-logo="https://i.imgur.com/kOqUFyh.png" group-title="Variedades em coreano",YG TV 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=623
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-logo="https://i.imgur.com/kOqUFyh.png" group-title="Variedades em coreano",YG TV 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-logo="https://i.imgur.com/kOqUFyh.png" group-title="Variedades em coreano",YG TV 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-logo="https://i.imgur.com/kOqUFyh.png" group-title="Variedades em coreano",YG TV | Xiaomi
-https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6176ff3ba00900000763710f" tvg-logo="http://images.pluto.tv/channels/6176ff3ba00900000763710f/colorLogoPNG.png" group-title="Variedades em coreano",K-Content | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6176ff3ba00900000763710f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 ,YG TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
