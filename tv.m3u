@@ -36,6 +36,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:-1 ,NEW BRASIL
 https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
 
+#EXTINF:-1 ,NEW KPOP
+https://2f63ef134ad044c8bc3b4ab0131658e9.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TCLTVPlus_NewKPop/playlist.m3u8
+
 #EXTINF:-1 ,PLAY TV
 https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
 
