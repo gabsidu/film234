@@ -1,5 +1,14 @@
 #EXTM3U 
 
+#EXTINF:-1 ,CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=10000.m3u8
+
+#EXTINF:-1 ,CANAL LIBRAS
+https://canallibras-stream.ebc.com.br/chunks.m3u8
+
+#EXTINF:-1 ,CANAL SAÚDE
+https://edge-pr-01.eduplay.rnp.br/media/ocp(r(sGRMUQ)t(GAx-SqEEHSg)p(d(iNo)k(LpA)m(IxzENp1MhbQGIOpjPiBzOA)n(a(zsJKe_34_LYFt3QlXsbJbsmpPAs)s(QLw)'a(zCIVpXp1OKKlKJtc7o3-TUMG)s(tGw)'a(VJJwkEnNRJK8I-mMd1TiKhqn)s(e6g)))s(t(xSU)b(DcHb5B_Qu9bTYif3ejlZqgjqnB2NUE0uKz8T-dNA42fJAB6yuHShJd91Tls2pHEf7UIpzfUbYysjSNiDRsobvFcn85F2Y0vBI9FHaMUn_SNYSJO6-wT915NuOcEULDmW-9_gi7cMDzvuNBHDQfPDhyzSHV39YL41tBW_dvA)'t(QiQ)b(wqFwtExD0YB1ILqWMkKWSkC5Z-FtdK_6tzE)))/720_index.m3u8
+
 #EXTINF:-1 ,KPOP TV PLAY 
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
