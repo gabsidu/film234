@@ -15,6 +15,9 @@ https://edge-pr-01.eduplay.rnp.br/media/ocp(r(sGRMUQ)t(GAx-SqEEHSg)p(d(iNo)k(LpA
 #EXTINF:-1 ,CANAL UOL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
 
+#EXTINF:-1 ,DIA TV
+https://ythls-v3.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
+
 #EXTINF:-1 ,HOMEFUL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
 
@@ -44,6 +47,9 @@ https://revry-brazil.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 ,SATO+
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+
+#EXTINF:-1 ,SBT RS
+https://ythls-v3.onrender.com/channel/sbtrsUCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 
 #EXTINF:-1 ,SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
