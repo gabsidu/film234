@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 ,BAND NEWS
-https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,CNN BRASIL
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 ,CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=10000.m3u8
@@ -11,6 +11,9 @@ https://canallibras-stream.ebc.com.br/chunks.m3u8
 
 #EXTINF:-1 ,CANAL SAÚDE
 https://edge-pr-01.eduplay.rnp.br/media/ocp(r(sGRMUQ)t(GAx-SqEEHSg)p(d(iNo)k(LpA)m(IxzENp1MhbQGIOpjPiBzOA)n(a(zsJKe_34_LYFt3QlXsbJbsmpPAs)s(QLw)'a(zCIVpXp1OKKlKJtc7o3-TUMG)s(tGw)'a(VJJwkEnNRJK8I-mMd1TiKhqn)s(e6g)))s(t(xSU)b(DcHb5B_Qu9bTYif3ejlZqgjqnB2NUE0uKz8T-dNA42fJAB6yuHShJd91Tls2pHEf7UIpzfUbYysjSNiDRsobvFcn85F2Y0vBI9FHaMUn_SNYSJO6-wT915NuOcEULDmW-9_gi7cMDzvuNBHDQfPDhyzSHV39YL41tBW_dvA)'t(QiQ)b(wqFwtExD0YB1ILqWMkKWSkC5Z-FtdK_6tzE)))/720_index.m3u8
+
+#EXTINF:-1 ,FUTURA
+https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 ,KPOP TV PLAY 
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
@@ -23,6 +26,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
 #EXTINF:-1 ,PLAY TV
 https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+
+#EXTINF:-1 ,REVRY BRASIL
+http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 
 #EXTINF:-1 ,SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
