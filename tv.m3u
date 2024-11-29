@@ -2,3 +2,12 @@
 
 #EXTINF:-1 ,KPOP TV PLAY 
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+#EXTINF:-1 ,MASPER TV
+https://tv02.zas.media:1936/masper/masper/chunklist_w38408297.m3u8
+
+#EXTINF:-1 ,PLAY TV
+https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,TVE RS
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w1420044968_b5128000.m3u8
